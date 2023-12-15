@@ -6,7 +6,7 @@ public class Principal {
         Zoo miZoo = new Zoo();
 
         Mamifero leon = new Mamifero("León", 5, "Savana", "Pelaje corto");
-        Ave aguila = new Ave("Águila", 3, "Montañas", "Plumaje dorado");
+        Ave aguila = new Ave("Aguila", 3, "Montañas", "Plumaje dorado");
 
         Cuidador cuidador1 = new Cuidador("Juan");
         Cuidador cuidador2 = new Cuidador("Ana");

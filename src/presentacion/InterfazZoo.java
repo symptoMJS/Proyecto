@@ -94,8 +94,8 @@ public class InterfazZoo {
     public static void main(String[] args) {
         InterfazZoo interfazZoo = new InterfazZoo();
 
-        Mamifero leon = new Mamifero("León", 5, "Savana", "Pelaje corto");
-        Ave aguila = new Ave("Águila", 3, "Montañas", "Plumaje dorado");
+        Mamifero leon = new Mamifero("Leon", 5, "Savana", "Pelaje corto");
+        Ave aguila = new Ave("guila", 3, "Montañas", "Plumaje dorado");
         Cuidador cuidador1 = new Cuidador("Juan");
 
         interfazZoo.agregarAnimal(leon);
